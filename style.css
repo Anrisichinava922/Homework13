@@ -14,6 +14,97 @@ header{
     flex-shrink: 0;
     background: #FFF;
 }
+.nonetxt{
+    display: none;
+}
+.but9{
+    width: 146px;
+    height: 40px;
+    flex-shrink: 0;
+    border: 1.5px solid #2C2830;
+    background: #FFF;
+    color: #2C2830;
+    font-family: 'Karla';
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 1.5px;
+}
+.but9:hover{
+    background-color: #262626;
+    color: #FFF;
+    font-family: 'Karla';
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 1.5px;
+}
+.but2:hover{
+    background-color: #fff;
+    color: #2C2830;
+    font-family: 'Karla';
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 1.5px;
+}
+.but3:hover{
+    background-color: #fff;
+    color: #2C2830;
+    font-family: 'Karla';
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 1.5px;
+}
+
+.h4{
+    color: #837D88;
+    font-family: 'Karla';
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 1.5px;
+}
+.headerimg{
+    display: flex;
+    flex-direction: row;
+}
+.nonediv{
+    display: none;
+}
+.line4{
+    display: none;
+}
+.h2{
+    color: #837D88;
+    font-family: 'Karla';
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 1.5px;
+}
+.hbut{
+    border: none;
+    width: 146px;
+    height: 40px;
+    flex-shrink: 0;
+    border: 1.5px solid #2C2830;
+    background: #FFF;
+    color: #2C2830;
+    font-family: 'Karla';
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 1.5px;
+}
 .logo{
     cursor: pointer;
     position: absolute;
